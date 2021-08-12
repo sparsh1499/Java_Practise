@@ -1,0 +1,25 @@
+Output:-
+
+*
+*
+*
+*
+*
+
+* * * * *
+
+Logic:-
+
+static void vertical5(){
+    for(int i=0;i<5;i++)
+    {
+        System.out.println("*");
+    }
+}
+
+static void horizontal5(){
+for(int i=0;i<5;i++)
+    {
+        System.out.print("* ");
+    }
+}
